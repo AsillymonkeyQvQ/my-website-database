@@ -7,3 +7,4 @@ INSERT INTO article_category(articleId, categoryId) VALUES(6, 2);
 INSERT INTO article_category(articleId, categoryId) VALUES(7, 3);
 INSERT INTO article_category(articleId, categoryId) VALUES(8, 2);
 INSERT INTO article_category(articleId, categoryId) VALUES(9, 2);
+INSERT INTO article_category(articleId, categoryId) VALUES(10, 2);

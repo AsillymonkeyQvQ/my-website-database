@@ -7,3 +7,4 @@ INSERT INTO article(id, authorId, parentId, title, summary, banner, published, c
 INSERT INTO article(id, authorId, parentId, title, summary, banner, published, createdAt, updatedAt) VALUES(7, 1, 0, 'トミカ', '测试文本','7.jpg', '1', '2021-01-01', '2021-01-01');
 INSERT INTO article(id, authorId, parentId, title, summary, banner, published, createdAt, updatedAt) VALUES(8, 1, 0, 'Iterator - 迭代器', '提供一种方法顺序访问一个聚合对象中各个元素，而又不需要暴露该对象的内部表示。','8.png', '1', '2021-02-09', '2021-02-09');
 INSERT INTO article(id, authorId, parentId, title, summary, banner, published, createdAt, updatedAt) VALUES(9, 1, 0, 'Adapter - 适配器', '将一个类的接口转换成客户希望的另一个接口。Adapter模式使得原本由于接口不兼容而不能一起工作的那些类可以一起工作。','9.png', '1', '2021-02-13', '2021-02-13');
+INSERT INTO article(id, authorId, parentId, title, summary, banner, published, createdAt, updatedAt) VALUES(10, 1, 0, 'Template Method - 模板方法', '定义一个操作中的算法的骨架，而将一些步骤延迟到子类中。TemplateMethod使得子类可以不改变一个算法的结构即可重定义该算法的某些特定步骤。','10.png', '1', '2021-02-21', '2021-02-21');
