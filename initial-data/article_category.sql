@@ -11,3 +11,5 @@ INSERT INTO article_category(articleId, categoryId) VALUES(10, 5);
 INSERT INTO article_category(articleId, categoryId) VALUES(11, 5);
 INSERT INTO article_category(articleId, categoryId) VALUES(12, 2);
 INSERT INTO article_category(articleId, categoryId) VALUES(13, 5);
+INSERT INTO article_category(articleId, categoryId) VALUES(14, 5);
+INSERT INTO article_category(articleId, categoryId) VALUES(15, 2);
